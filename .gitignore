@@ -1,0 +1,22 @@
+# Unity
+[Ll]ibrary/
+[Ll]ogs/
+[Oo]bj/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+
+# Unity Generated File On Crash Reports
+sysinfo.txt
+
+# Code
+.vs/
+*.sln
+*.csproj
+.idea/
+
+# FMOD
+FMODStudioCache.asset
+FMOD/.*
+!FMOD/Build/
+fmod_editor.log
